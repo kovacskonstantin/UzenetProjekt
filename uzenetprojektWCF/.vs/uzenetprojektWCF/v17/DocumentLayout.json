@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|c:\\users\\pc\\desktop\\projektwcf\\uzenetprojektwcf\\uzenetprojektwcf\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|solutionrelative:uzenetprojektwcf\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|c:\\users\\pc\\desktop\\projektwcf\\uzenetprojektwcf\\uzenetprojektwcf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|solutionrelative:uzenetprojektwcf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|c:\\users\\pc\\desktop\\projektwcf\\uzenetprojektwcf\\uzenetprojektwcf\\models\\tablazat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|solutionrelative:uzenetprojektwcf\\models\\tablazat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|c:\\users\\pc\\desktop\\projektwcf\\uzenetprojektwcf\\uzenetprojektwcf\\models\\uzenet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|solutionrelative:uzenetprojektwcf\\models\\uzenet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|c:\\users\\pc\\desktop\\projektwcf\\uzenetprojektwcf\\uzenetprojektwcf\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|solutionrelative:uzenetprojektwcf\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|c:\\users\\pc\\desktop\\projektwcf\\uzenetprojektwcf\\uzenetprojektwcf\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|solutionrelative:uzenetprojektwcf\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|c:\\users\\pc\\desktop\\projektwcf\\uzenetprojektwcf\\uzenetprojektwcf\\services\\uzenetservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A69632E-FE61-411F-B78C-8B0824B35361}|uzenetprojektWCF\\uzenetprojektWCF.csproj|solutionrelative:uzenetprojektwcf\\services\\uzenetservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Interfaces\\ICRUD.cs",
+              "RelativeDocumentMoniker": "uzenetprojektWCF\\Interfaces\\ICRUD.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Interfaces\\ICRUD.cs",
+              "RelativeToolTip": "uzenetprojektWCF\\Interfaces\\ICRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:19:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uzenet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Models\\Uzenet.cs",
+              "RelativeDocumentMoniker": "uzenetprojektWCF\\Models\\Uzenet.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Models\\Uzenet.cs",
+              "RelativeToolTip": "uzenetprojektWCF\\Models\\Uzenet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:18:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tablazat.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Models\\Tablazat.cs",
+              "RelativeDocumentMoniker": "uzenetprojektWCF\\Models\\Tablazat.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Models\\Tablazat.cs",
+              "RelativeToolTip": "uzenetprojektWCF\\Models\\Tablazat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:18:45.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UzenetServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Services\\UzenetServices.cs",
+              "RelativeDocumentMoniker": "uzenetprojektWCF\\Services\\UzenetServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Services\\UzenetServices.cs",
+              "RelativeToolTip": "uzenetprojektWCF\\Services\\UzenetServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:17:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Web.config",
+              "RelativeDocumentMoniker": "uzenetprojektWCF\\Web.config",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Web.config",
+              "RelativeToolTip": "uzenetprojektWCF\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-04T10:11:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\IService1.cs",
+              "RelativeDocumentMoniker": "uzenetprojektWCF\\IService1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\IService1.cs",
+              "RelativeToolTip": "uzenetprojektWCF\\IService1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:11:14.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "uzenetprojektWCF\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\projektwcf\\uzenetprojektWCF\\uzenetprojektWCF\\Service1.svc.cs",
+              "RelativeToolTip": "uzenetprojektWCF\\Service1.svc.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:11:04.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
